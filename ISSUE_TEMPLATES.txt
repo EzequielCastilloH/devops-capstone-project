@@ -1,0 +1,12 @@
+**Como** [rol]  
+**Necesito** [función]  
+**Para que** [beneficio]  
+
+### Detalles y Suposiciones
+* [documentar lo que se sabe]      
+
+### Criterios de Aceptación     
+```gherkin 
+Dado [algún contexto]
+Cuando [se realiza una acción específica]
+Entonces [se observa el resultado de la acción]
